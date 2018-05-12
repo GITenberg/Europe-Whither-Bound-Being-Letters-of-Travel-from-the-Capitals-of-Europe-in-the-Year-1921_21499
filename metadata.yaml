@@ -1,0 +1,31 @@
+_repo: Europe-Whither-Bound-Being-Letters-of-Travel-from-the-Capitals-of-Europe-in-the-Year-1921_21499
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Graham, Stephen
+    birthdate: 1884
+    deathdate: 1975
+    gutenberg_agent_id: '4157'
+    url: http://www.gutenberg.org/2009/agents/4157
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Graham_%28author%29
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2007-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21499'
+language: en
+publication_note: 'Toronto :  The Ryerson Press;  D. Appleton and Company,  1922'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- Description and travel'
+title: 'Europe—Whither Bound?
+
+  Being Letters of Travel from the Capitals of Europe in the Year 1921'
+url: http://www.gutenberg.org/ebooks/21499
