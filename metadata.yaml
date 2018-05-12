@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4157
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Graham_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21499#Europe-Whither-Bound-Being-Letters-of-Travel-from-the-Capitals-of-Europe-in-the-Year-1921
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2007-05-16'
 gutenberg_type: Text
